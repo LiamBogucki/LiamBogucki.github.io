@@ -16,7 +16,7 @@ My current research focuses on improving the dryland carbon flux simulation accu
 
 Generally, I am interested in understanding and modelling how terrestrial processes big and small interact with climate change.
 
-You can find out more about me and my research activities by exploring the tabs at the top of this page.
+You can find out more about me by exploring the tabs at the top of this page.
 
 
 Contacting Me
