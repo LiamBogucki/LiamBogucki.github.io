@@ -24,13 +24,13 @@ repository               : "LiamBogucki/Liam-Bogucki.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Liam Bogucki"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "MSc Student"
+  location         : "London, Ontario"
+  employer         : "Western University (University of Western Ontario)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lboguck@uwo.ca" 
 
   # Academic websites
   academia         : # URL
