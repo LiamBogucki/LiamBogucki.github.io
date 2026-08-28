@@ -24,7 +24,8 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/Liam_Bogucki_CV.pdf
+    # url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
