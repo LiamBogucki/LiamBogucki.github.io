@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+
 Welcome!
 ======
 I am a second year MSc student in the [C3E lab](https://macbeanlab.com/) at Western University.
