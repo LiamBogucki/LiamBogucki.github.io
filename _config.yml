@@ -85,9 +85,9 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   published:
-    title: 'Published Papers'
+    title: 'Peer-Reviewed Publications'
   under_review:
-    title: 'Submitted, Under Review, or In Revision'
+    title: 'Manuscripts Submitted, Under Review, or In Revision'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
