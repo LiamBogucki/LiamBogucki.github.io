@@ -48,12 +48,10 @@ layout: default
         {{ content }}
 
         {% if page.collection == 'publications' %}
-          {% if page.citation and page.bibtexurl %}
-            <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
-          {% elsif page.citation %}
-            <p style="font-size: smaller">Recommended citation: {{ page.citation }}</p>
-          {% elsif page.bibtexurl %}
-            <p style="font-size: smaller"><a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
+          {% if page.citation %}
+            <p style="font-size: smaller">Recommended citation: {{ page.citation }}{% if page.paperurl %}<br /><a href="{{ page.paperurl }}">Download Paper</a>{% endif %}</p>
+          {% elsif page.paperurl %}
+            <p style="font-size: smaller"><a href="{{ page.paperurl }}">Download Paper</a></p>
           {% endif %}
         {% elsif page.citation and page.paperurl and page.slidesurl and page.bibtexurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
