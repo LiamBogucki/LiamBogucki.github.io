@@ -7,7 +7,6 @@ venue: "Western University, Biology"
 date: 2026-01-01
 location: "London, Canada"
 ---
-
 **Was responsible for:**
 
 - Helping restructure the course to include in-person assesment via quizzes
