@@ -3,7 +3,7 @@ title: "Teaching assistant - Bio3425G 'Global Change Biology' "
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2026-teaching-2
-venue: "University 1, Department"
+venue: "Western University, Biology"
 date: 2026-01-01
 location: "London, Canada"
 ---
