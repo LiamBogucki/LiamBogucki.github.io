@@ -1,14 +1,20 @@
+# DISABLED: the talk-map scraper is turned off.
+#
+# The old pipeline (Jupyter + the unmaintained `getorg` package on deprecated
+# action versions) fails on current GitHub runners. The talk map is not linked
+# anywhere on the site, so this workflow is disabled rather than fixed.
+#
+# To re-enable: restore a `push:` trigger below and remove `if: ${{ false }}`
+# from the job.
+
 name: Scrape Talk Locations
 
 on:
-  push:
-    paths:
-      - 'talks/**'
-      - '_talks/**'
-      - 'talkmap.ipynb'
+  workflow_dispatch:   # manual only; see note above
 
 jobs:
   build:
+    if: ${{ false }}   # hard-disabled
     runs-on: ubuntu-latest
     permissions:
       contents: write           # This workflow pushes to the repository
