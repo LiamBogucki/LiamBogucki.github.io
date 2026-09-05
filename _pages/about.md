@@ -14,7 +14,7 @@ I am a second year MSc student in the [C3E lab](https://macbeanlab.com/) at West
 
 My current research focuses on improving the dryland carbon flux simulation accuracy of the [CLASSIC terrestrial biosphere model](https://cccma.gitlab.io/classic_pages/) through my addition of a novel biological soil crust representation.
 
-Generally, I am interested in understanding and modelling how terrestrial processes big and small interact with climate change.
+Broadly, I am interested in developing process-based models of ecosystem function.
 
 You can learn more about my research, teaching, and service activities by exploring the tabs at the top of this page.
 
